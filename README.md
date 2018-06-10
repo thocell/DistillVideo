@@ -2,7 +2,7 @@
 
 Help you to download any video or audio from 5000 more websites. The best online video and audio downloader from 5000+ websites including YouTube. Supports HD formats: 1080P, 2K, 4K, 8K.
 
-![](https://distillvideo.com/assets/images/logo.png)
+[![Foo](https://distillvideo.com/assets/images/logo.png)](https://distillvideo.com/)
 
 ### Features
 
